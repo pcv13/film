@@ -1,0 +1,86 @@
+body{
+background-color: black
+}
+header {
+  background-color: yellow;
+
+  color:black;
+  font-size: 10px;
+  font-style: italic;
+  height:100px;
+  width:100%;
+  margin-bottom:20px;
+}
+.h1{
+color:black;
+  font-size: 50px;
+  font-style: italic;
+  text-align: center;
+}
+article {
+  background-color: black;
+  
+  border: 10px solid yellow;
+  color: white;
+  font-size: 10px;
+  font-style: italic;
+  height:1000px;
+  width: 1000px;
+  margin: auto;
+
+}
+
+section {
+
+ 
+background-color:red ;
+float:left;
+width: 440px;
+height:600px;
+margin: 30px;
+
+}
+
+
+
+div {
+font-size: 15px;
+  font-style: italic;
+ text-align: center;
+float:right;
+background-color: black;
+border: 10px solid white;
+width: 420px;
+height:580px;
+margin: 30px;
+ 
+}
+
+aside{
+font-size: 20px;
+  font-style: italic;
+background-color:black ;
+
+width: 940px;
+height:300px;
+margin:30px;
+ 
+}
+
+footer{
+  background-color: yellow;
+
+  color:black;
+  font-size: 10px;
+  font-style: italic;
+  height:100px;
+  width:100%;
+  margin-top:20px;
+}
+.h2{
+color:black;
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+}
+
